@@ -1,1 +1,0 @@
-const fireBaseURL:any = 'https://authangular-100-default-rtdb.firebaseio.com/'
